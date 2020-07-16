@@ -1,0 +1,38 @@
+/* used colors are: #32b0ff #fc3fff*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #c5cfcf;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-align: center;
+    font-size: 50px;    
+}
+
+.primary-box {
+    background: #222;
+    color: #eee;
+    font-size: 24px;
+    margin: 0 0 10px;
+    padding: 10px;
+}
+
+.primary-box em{
+    color: rgb(127, 106, 243);
+}
+
+.secondary-box {
+    background: #eee;
+    font-family: 'Playfair Display', serif;
+    color: #222;
+    font-size: 24px;
+    margin: 0 0 10px;    
+    padding: 10px;
+}
+
+.secondary-box em {
+    color: rgb(226, 122, 245);
+}
